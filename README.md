@@ -1,5 +1,5 @@
 # 무신사 랭킹 데이터 분석
-<img src="/images/musinsaLogo.jpeg"/>
+<img src="/images/musinsaLogo.jpeg" witdh="1000px;"/>
 
 ## 프로젝트 설명
 모다(MODA)는 모두, 모으다라는 뜻이 있는 단어로 여러 편의점들의 행사 정보들을<br/>
