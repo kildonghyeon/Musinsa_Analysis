@@ -8,3 +8,11 @@
 
 ## 제작과정
 <img src="/images/production.png" width="100%"/>
+
+## 워드클라우드 제작
+랭킹 페이지에 가장 많이 오른 브랜드 기준으로 워드클라우드를 제작해보았습니다.
+<img src="/output/musinsaWordCloud.png" width="100%"/>
+<span style="font-size: 13px;">
+    Mask: 무신사 모델 클리핑 마스크
+    Font: 배민한나체 Pro
+</span>
