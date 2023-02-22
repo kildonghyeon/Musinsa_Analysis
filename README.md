@@ -10,9 +10,9 @@
 <img src="/images/production.png" width="100%"/>
 
 ## 워드클라우드 제작
-랭킹 페이지에 가장 많이 오른 브랜드 기준으로 워드클라우드를 제작해보았습니다.
-<img src="/output/musinsaWordCloud.png" width="100%"/>
-<span style="font-size: 10px; color: #cfcfcd">
-    Mask: 무신사 모델 클리핑 마스크  
-    Font: 배민한나체 Pro
-</span>
+랭킹 페이지에 가장 많이 오른 브랜드 기준으로 워드클라우드를 제작해보았습니다.  
+총 브랜드 수: 915개
+<img src="/output/musinsaWordCloud.png" width="100%" style="float: left;"/>
+육안으로만 봐도 무신사 스탠다드가 압도적으로 랭킹 페이지에 이름을 올린 것을 확인할 수 있습니다.  
+그 외로는 아디다스, 폴로 랄프 로렌, 디스커버리 익스페디션 정도가 눈에 띄는데  
+좀 더 구체적인 확인을 위해 시각화 작업을 진행하였습니다.
