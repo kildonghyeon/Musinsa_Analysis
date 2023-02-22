@@ -22,7 +22,9 @@
 # 시각화
 
 ## 랭킹페이지에 가장 많이 오른 브랜드 Top20 상품수 비교
-<img src="/output/brandTop20.png" width="55%"/>
-<img src="/output/brandTop20(pie).png" width="55%"/>  
+ggplot을 사용한 막대그래프  
+<img src="/output/brandTop20.png" width="68%"/>  
+matplotlib을 사용한 파이차트  
+<img src="/output/brandTop20(pie).png" width="68%"/>  
 두 그래프, 파이차트를 보면 무신사 스탠다드 상품수가 전체 비중에 굉장히 많은걸 확인 할 수 있습니다.  
 또, 상위권 브랜드도 전체에서 적지않는 비중을 가지고 있다는 것도 알 수 있습니다.
